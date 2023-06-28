@@ -1,3 +1,2 @@
 # kareo_appointments
-create appointment by api kareo
-Strange API/ Declined/ DrCrono much better
+Normal application by Kareo, but very strange API. Declined. DrCrono much better. We choose DrCrono instead Kareo
